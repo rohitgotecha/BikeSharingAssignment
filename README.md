@@ -42,9 +42,7 @@ You are required to model the demand for shared bikes with the available indepen
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+
   ## Language
    - Python
   ## Numerical Analysis and Data Analysis
@@ -53,7 +51,10 @@ You are required to model the demand for shared bikes with the available indepen
   ## Data Visualization
   - Seaborn 
   - MatplotLib-pyplot
-
+  ## Regression libraries
+  - sklearn
+  - statsmodels
+  
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
