@@ -25,13 +25,13 @@ You are required to model the demand for shared bikes with the available indepen
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-  A bike-sharing system is a service that allows people to check out bikes for free or at a cost for short-term shared use. Numerous bike share programs enable users to check out bikes from "docks," which are often computerized locations where users input payment details and the system unlocks the bike. After that, you can return this bike to any other dock in the system.
-- What is the background of your project? company is making an effort to comprehend the need for shared bikes among the populace once the country's current Covid-19-related quarantine ends. They have planned this in order to position themselves to differentiate themselves from other service providers, make significant profits, and be ready to meet people's needs when things improve overall.
+-  general information about the project : A bike-sharing system is a service that allows people to check out bikes for free or at a cost for short-term shared use. Numerous bike share programs enable users to check out bikes from "docks," which are often computerized locations where users input payment details and the system unlocks the bike. After that, you can return this bike to any other dock in the system.
+- Background  of project : company is making an effort to comprehend the need for shared bikes among the populace once the country's current Covid-19-related quarantine ends. They have planned this in order to position themselves to differentiate themselves from other service providers, make significant profits, and be ready to meet people's needs when things improve overall.
 
-- What is the business probem that your project is trying to solve?
-   Company needs a strategic solution because of the ongoing epidemic, which is causing significant revenue decreases.
-- What is the dataset that is being used?
+- Business problem : Company needs a strategic solution because of the ongoing epidemic, which is causing significant revenue decreases.
+- Dataset : We can observe in the dataset that some of the variables like 'weathersit' and 'season' have values as 1, 2, 3, 4 which have specific labels associated with them (as can be seen in the data dictionary). These numeric values associated with the labels may indicate that there is some order to them - which is actually not the case (Check the data dictionary and think why). So, it is advisable to convert such feature values into categorical string values before proceeding with model building. Please refer the data dictionary to get a better understanding of all the independent variables.
+
+We might notice the column 'yr' with two values 0 and 1 indicating the years 2018 and 2019 respectively. At the first instinct, you might think it is a good idea to drop this column as it only has two values so it might not be a value-add to the model. But in reality, since these bike-sharing systems are slowly gaining popularity, the demand for these bikes is increasing every year proving that the column 'yr' might be a good variable for prediction. So think twice before dropping it.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
