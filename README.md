@@ -56,7 +56,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@rohitgotecha] (https://github.com/rohitgotecha) - feel free to contact me!
 
 
 <!-- Optional -->
