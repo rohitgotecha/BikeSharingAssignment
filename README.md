@@ -38,6 +38,15 @@ You are required to model the demand for shared bikes with the available indepen
 - Conclusion 2 from the analysis
 - Conclusion 3 from the analysis
 - Conclusion 4 from the analysis
+- 
+- The equation of the best fit line : 
+  ***cnt*** = 1763.3081 -521.0958 x holiday -1427.8111 x hum + 4934.2029 x temp -1679.0976 x windspeed + 381.3737 x workingday + 1993.5720 x yr + 648.1735 x season_Summer + 1100.2682 x season_Winter -340.3520 x mnth_January -387.1024 x mnth_July + 804.8554 x mnth_September + 469.5340 x weekday_Sunday -2126.2583 x weathersit_Light Rain/Snow -483.5670 x weathersit_Mist/Cloudy
+  
+- Effective generalization in a linear regression model is indicated by the close alignment of R2 and adjusted R2 values (R2: 0.810 vs. 0.800 and Adjusted R2: 0.810 vs. 0.800) between the training and test sets. This resemblance indicates that the model is likely to function consistently on fresh, untested data and avoids overfitting to the training set.
+- Factors like **year**, **workingday**, **temp**, **hum**, **windspeed**, **summer**, **winter**, **September**, and **Sunday** affect the demand for bikes.
+- The greatest coefficient values for three important feature variables—**temp**, **yr**, and **Winter**—indicate their considerable influence.
+- For a linear regression model, the RMSE values of the training set and in the test set show that the model fits the training data well and generalizes to new, unknown data with a negligible performance differential between the test and training sets.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
