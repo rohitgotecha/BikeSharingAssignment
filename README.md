@@ -59,10 +59,8 @@ You are required to model the demand for shared bikes with the available indepen
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- The upGrad live session on the industry relevance of linear regression models served as the inspiration for this project.
+- Linear regression tutorials from UpGrad on the learning platform
 
 ## Contact
 Created by [@rohitgotecha] (https://github.com/rohitgotecha) - feel free to contact me!
