@@ -26,6 +26,7 @@ You are required to model the demand for shared bikes with the available indepen
 
 ## General Information
 - Provide general information about your project here.
+  A bike-sharing system is a service that allows people to check out bikes for free or at a cost for short-term shared use. Numerous bike share programs enable users to check out bikes from "docks," which are often computerized locations where users input payment details and the system unlocks the bike. After that, you can return this bike to any other dock in the system.
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
    Company needs a strategic solution because of the ongoing epidemic, which is causing significant revenue decreases.
