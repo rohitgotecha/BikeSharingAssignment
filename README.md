@@ -43,15 +43,15 @@ You are required to model the demand for shared bikes with the available indepen
 
 ## Technologies Used
 
-  ## Language
+   ## Language
    - Python
-  ## Numerical Analysis and Data Analysis
+   ## Numerical Analysis and Data Analysis
    - Numpy
    - Pandas
-  ## Data Visualization
+   ## Data Visualization
   - Seaborn 
   - MatplotLib-pyplot
-  ## Regression libraries
+   ## Regression libraries
   - sklearn
   - statsmodels
   
