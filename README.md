@@ -35,7 +35,7 @@ You are required to model the demand for shared bikes with the available indepen
 
 ## Conclusions
 
-- Effective generalization in a linear regression model is indicated by the close alignment of R2 and adjusted R2 values (R2: 0.847 vs. 0.804 and Adjusted R2: 0.810 vs. 0.800) between the training and test sets. This resemblance indicates that the model is likely to function consistently on fresh, untested data and avoids overfitting to the training set.
+- Effective generalization in a linear regression model is indicated by the close alignment of R2 values (R2: 0.847 vs. 0.804 ) between the training and test sets. This resemblance indicates that the model is likely to function consistently on fresh, untested data and avoids overfitting to the training set.
 - Factors like **year**, **workingday**, **temp**, **hum**, **windspeed**, **summer**, **winter**, **September**, and **Sunday** affect the demand for bikes.
 - The greatest coefficient values for three important feature variables—**temp**, **yr**, and **Winter**—indicate their considerable influence.
 - For a linear regression model, the RMSE values of the training set and in the test set show that the model fits the training data well and generalizes to new, unknown data with a negligible performance differential between the test and training sets.
