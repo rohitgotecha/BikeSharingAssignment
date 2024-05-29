@@ -28,6 +28,7 @@ You are required to model the demand for shared bikes with the available indepen
 - Provide general information about your project here.
 - What is the background of your project?
 - What is the business probem that your project is trying to solve?
+   Company needs a strategic solution because of the ongoing epidemic, which is causing significant revenue decreases.
 - What is the dataset that is being used?
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
