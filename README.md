@@ -64,7 +64,7 @@ Give credit here.
 - Linear regression tutorials from UpGrad on the learning platform
 
 ## Contact
-Created by [@rohitgotecha] (https://github.com/rohitgotecha) - feel free to contact me!
+Created by [@rohitgotecha] - feel free to contact me!
 
 
 <!-- Optional -->
